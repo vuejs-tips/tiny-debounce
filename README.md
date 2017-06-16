@@ -4,7 +4,7 @@ Lightweight alternative to [lodash.debounce](https://unpkg.com/lodash.debounce) 
 
 ## Usage with Vue.js
 
-
+See [demo](https://vuejs-tips.github.io/tiny-debounce) and [source](https://github.com/vuejs-tips/tiny-debounce/blob/master/demo.vue).
 
 ## Alternatives
 
