@@ -1,6 +1,6 @@
 {
   "name": "tiny-debounce",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "tiny debounce function alternative to lodash.debounce",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,10 @@
   "files": [
     "index.js"
   ],
-  "keywords": ["vuejs", "debounce"],
+  "keywords": [
+    "vuejs",
+    "debounce"
+  ],
   "author": "Marcos Neves <marcos.neves@gmail.com> (https://medium.com/vuejs-tips)",
   "license": "MIT"
 }
