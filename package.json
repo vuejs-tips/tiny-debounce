@@ -9,6 +9,10 @@
     "docs:build": "vue build ./demo.vue --config ./demo.config.js --dist ./docs/ --prod",
     "docs:serve": "open http://localhost:5000/docs/ && serve ./"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vuejs-tips/tiny-debounce.git"
+  },
   "files": [
     "index.js"
   ],
